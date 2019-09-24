@@ -1,0 +1,16 @@
+PODS:
+  - CarbonKit (2.3.0)
+
+DEPENDENCIES:
+  - CarbonKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CarbonKit
+
+SPEC CHECKSUMS:
+  CarbonKit: fbbf0809ab18b33817a09da2591fc7ee9be7b17c
+
+PODFILE CHECKSUM: 20111b3c375513e66ad88ca4fbcde9853e28c810
+
+COCOAPODS: 1.7.1

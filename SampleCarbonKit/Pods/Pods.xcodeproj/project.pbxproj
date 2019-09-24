@@ -1,0 +1,639 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		03B8F701C390DCFA622B80BDBFDE1057 /* CarbonTabSwipeScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = 04D8F8634F8AF99302E68966B070F63C /* CarbonTabSwipeScrollView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0C228AAFBE46C67BC2DC38F9D6920A47 /* CarbonKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F0315827A4FBDDC60746B0580622EA5E /* CarbonKit-dummy.m */; };
+		1C0396278716F0104A410E8F792C9788 /* Pods-SampleCarbonKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 42F030E381144EF915C0D84E0A8BB85F /* Pods-SampleCarbonKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1C6B6AB5857B29F5A9161677EACF5C7B /* CarbonSwipeRefresh.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FD56B5B61C3773DF56F37B1E35FC718 /* CarbonSwipeRefresh.m */; };
+		25B07A9A8A78CA347FE952767F39F980 /* CarbonKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 099964774E6A80CA9B5CC4A2D78D20D7 /* CarbonKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4BDD593CEA36CA5982C478E36AE81459 /* Pods-SampleCarbonKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 89D53AF03AFDBB98E51FB40AC01DC3D7 /* Pods-SampleCarbonKit-dummy.m */; };
+		7363851AAD9AE20CBC17CCB95785539B /* CarbonTabSwipeNavigation.h in Headers */ = {isa = PBXBuildFile; fileRef = 8824942ADBF52AFF62DD361581611DE5 /* CarbonTabSwipeNavigation.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8B925982753AD642183F6692BCFBDC47 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */; };
+		8CDD06F7743A3AF6213FC82BDEC766AB /* CarbonSwipeRefresh.h in Headers */ = {isa = PBXBuildFile; fileRef = CEF8EED9B22BDF15C734844F7D2F3FCA /* CarbonSwipeRefresh.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A1D1FB161602F9E8EC5EEE3C260D7157 /* CarbonTabSwipeScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = E4B50ECA4A54F2AACF1C687A565F0A65 /* CarbonTabSwipeScrollView.m */; };
+		A3D9C03640B1B005657BFB25D34DE3E8 /* CarbonTabSwipeSegmentedControl.h in Headers */ = {isa = PBXBuildFile; fileRef = D2D809AD58CE8775E1693A4AB17EE0F4 /* CarbonTabSwipeSegmentedControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BE96C87E14194D4D24F90D14B9041603 /* CarbonTabSwipeNavigation.m in Sources */ = {isa = PBXBuildFile; fileRef = 019D1273C0A3E13C54D1C96191406BAD /* CarbonTabSwipeNavigation.m */; };
+		CD4D5EB5E556D13582CEEEA2A95BB4C3 /* CarbonKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0EBCC31341E2B833452B6A6284A42771 /* CarbonKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CD5B7078A233D53215E9E98602900697 /* CarbonTabSwipeSegmentedControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D8B5DFFE2B6CD1F7655E36022D25EB3 /* CarbonTabSwipeSegmentedControl.m */; };
+		D5CEFF80FE2B2A49E1DF2EC7860F237C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 312B988EF117AE4DE76A268D970131FE /* UIKit.framework */; };
+		E88A17A76F27A98DD2239767F5EF936D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		1FF055278B44C7420548F367E9C40BC5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AF9228424A074D42F13FABA26E972B57;
+			remoteInfo = CarbonKit;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		019D1273C0A3E13C54D1C96191406BAD /* CarbonTabSwipeNavigation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CarbonTabSwipeNavigation.m; path = CarbonKit/CarbonTabSwipeNavigation.m; sourceTree = "<group>"; };
+		04D8F8634F8AF99302E68966B070F63C /* CarbonTabSwipeScrollView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CarbonTabSwipeScrollView.h; path = CarbonKit/CarbonTabSwipeScrollView.h; sourceTree = "<group>"; };
+		099964774E6A80CA9B5CC4A2D78D20D7 /* CarbonKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CarbonKit.h; path = CarbonKit/CarbonKit.h; sourceTree = "<group>"; };
+		0EBCC31341E2B833452B6A6284A42771 /* CarbonKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CarbonKit-umbrella.h"; sourceTree = "<group>"; };
+		312B988EF117AE4DE76A268D970131FE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		3D8B5DFFE2B6CD1F7655E36022D25EB3 /* CarbonTabSwipeSegmentedControl.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CarbonTabSwipeSegmentedControl.m; path = CarbonKit/CarbonTabSwipeSegmentedControl.m; sourceTree = "<group>"; };
+		42F030E381144EF915C0D84E0A8BB85F /* Pods-SampleCarbonKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SampleCarbonKit-umbrella.h"; sourceTree = "<group>"; };
+		436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		6FD56B5B61C3773DF56F37B1E35FC718 /* CarbonSwipeRefresh.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CarbonSwipeRefresh.m; path = CarbonKit/CarbonSwipeRefresh.m; sourceTree = "<group>"; };
+		7507FF2A31069EBD97E584BA0C45CF5A /* CarbonKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CarbonKit.modulemap; sourceTree = "<group>"; };
+		857D0B90490FD8083F79B97597566B28 /* CarbonKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CarbonKit.framework; path = CarbonKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		85951284E05B81C3B79E4F0D907571FB /* CarbonKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "CarbonKit-Info.plist"; sourceTree = "<group>"; };
+		8824942ADBF52AFF62DD361581611DE5 /* CarbonTabSwipeNavigation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CarbonTabSwipeNavigation.h; path = CarbonKit/CarbonTabSwipeNavigation.h; sourceTree = "<group>"; };
+		89D53AF03AFDBB98E51FB40AC01DC3D7 /* Pods-SampleCarbonKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SampleCarbonKit-dummy.m"; sourceTree = "<group>"; };
+		975F86C1CCC041F37AC572F8FABE6DC3 /* Pods-SampleCarbonKit-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SampleCarbonKit-frameworks.sh"; sourceTree = "<group>"; };
+		97D271B4E433D56C918BF73D3388B5A9 /* Pods-SampleCarbonKit-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SampleCarbonKit-acknowledgements.plist"; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B13F8B682638504257F4BB9A4D21161B /* CarbonKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CarbonKit.xcconfig; sourceTree = "<group>"; };
+		B22649994DD8BAE0B0C86181FD440086 /* Pods_SampleCarbonKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SampleCarbonKit.framework; path = "Pods-SampleCarbonKit.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CA940A10BB33F2117BC3C32E368D801A /* Pods-SampleCarbonKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SampleCarbonKit.modulemap"; sourceTree = "<group>"; };
+		CEF8EED9B22BDF15C734844F7D2F3FCA /* CarbonSwipeRefresh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CarbonSwipeRefresh.h; path = CarbonKit/CarbonSwipeRefresh.h; sourceTree = "<group>"; };
+		D2D809AD58CE8775E1693A4AB17EE0F4 /* CarbonTabSwipeSegmentedControl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CarbonTabSwipeSegmentedControl.h; path = CarbonKit/CarbonTabSwipeSegmentedControl.h; sourceTree = "<group>"; };
+		D8D1F2184F344D7A4193D841173B44EB /* Pods-SampleCarbonKit-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SampleCarbonKit-acknowledgements.markdown"; sourceTree = "<group>"; };
+		DC6E977DB28872336F81878595E3EA41 /* CarbonKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CarbonKit-prefix.pch"; sourceTree = "<group>"; };
+		E18C6B7399DC857F6758B2E977CAE64D /* Pods-SampleCarbonKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SampleCarbonKit.debug.xcconfig"; sourceTree = "<group>"; };
+		E4B50ECA4A54F2AACF1C687A565F0A65 /* CarbonTabSwipeScrollView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CarbonTabSwipeScrollView.m; path = CarbonKit/CarbonTabSwipeScrollView.m; sourceTree = "<group>"; };
+		EB276B2CFBABE16D0D4FE5C64F504044 /* Pods-SampleCarbonKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SampleCarbonKit-Info.plist"; sourceTree = "<group>"; };
+		EFBE5E17173FAE66F831DB5A69F1BF35 /* Pods-SampleCarbonKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SampleCarbonKit.release.xcconfig"; sourceTree = "<group>"; };
+		F0315827A4FBDDC60746B0580622EA5E /* CarbonKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CarbonKit-dummy.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5EA1CACECF843B336B97AF81AF7829A2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B925982753AD642183F6692BCFBDC47 /* Foundation.framework in Frameworks */,
+				D5CEFF80FE2B2A49E1DF2EC7860F237C /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB284EC05B3FFFED8A4DAEA443F36812 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E88A17A76F27A98DD2239767F5EF936D /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1628BF05B4CAFDCC3549A101F5A10A17 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E2983683FD097A93297E2F5D4E382B36 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5832ECE59EDE93ABE6A4BF2C9F994FB6 /* Pods-SampleCarbonKit */ = {
+			isa = PBXGroup;
+			children = (
+				CA940A10BB33F2117BC3C32E368D801A /* Pods-SampleCarbonKit.modulemap */,
+				D8D1F2184F344D7A4193D841173B44EB /* Pods-SampleCarbonKit-acknowledgements.markdown */,
+				97D271B4E433D56C918BF73D3388B5A9 /* Pods-SampleCarbonKit-acknowledgements.plist */,
+				89D53AF03AFDBB98E51FB40AC01DC3D7 /* Pods-SampleCarbonKit-dummy.m */,
+				975F86C1CCC041F37AC572F8FABE6DC3 /* Pods-SampleCarbonKit-frameworks.sh */,
+				EB276B2CFBABE16D0D4FE5C64F504044 /* Pods-SampleCarbonKit-Info.plist */,
+				42F030E381144EF915C0D84E0A8BB85F /* Pods-SampleCarbonKit-umbrella.h */,
+				E18C6B7399DC857F6758B2E977CAE64D /* Pods-SampleCarbonKit.debug.xcconfig */,
+				EFBE5E17173FAE66F831DB5A69F1BF35 /* Pods-SampleCarbonKit.release.xcconfig */,
+			);
+			name = "Pods-SampleCarbonKit";
+			path = "Target Support Files/Pods-SampleCarbonKit";
+			sourceTree = "<group>";
+		};
+		583CD1E498301F72C2C1BCD74E525548 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				CCC41E7B82AD5F80AA6C5E9D0B8AF3EA /* CarbonKit */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		8C38368616B0EBC91CDE6FDCD9563EB2 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				5832ECE59EDE93ABE6A4BF2C9F994FB6 /* Pods-SampleCarbonKit */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		B59C6D72701E48D0F71A4128E44DE36D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				857D0B90490FD8083F79B97597566B28 /* CarbonKit.framework */,
+				B22649994DD8BAE0B0C86181FD440086 /* Pods_SampleCarbonKit.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C19814D49271379B4E7E113ECE9DC4BE /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				7507FF2A31069EBD97E584BA0C45CF5A /* CarbonKit.modulemap */,
+				B13F8B682638504257F4BB9A4D21161B /* CarbonKit.xcconfig */,
+				F0315827A4FBDDC60746B0580622EA5E /* CarbonKit-dummy.m */,
+				85951284E05B81C3B79E4F0D907571FB /* CarbonKit-Info.plist */,
+				DC6E977DB28872336F81878595E3EA41 /* CarbonKit-prefix.pch */,
+				0EBCC31341E2B833452B6A6284A42771 /* CarbonKit-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/CarbonKit";
+			sourceTree = "<group>";
+		};
+		CCC41E7B82AD5F80AA6C5E9D0B8AF3EA /* CarbonKit */ = {
+			isa = PBXGroup;
+			children = (
+				099964774E6A80CA9B5CC4A2D78D20D7 /* CarbonKit.h */,
+				CEF8EED9B22BDF15C734844F7D2F3FCA /* CarbonSwipeRefresh.h */,
+				6FD56B5B61C3773DF56F37B1E35FC718 /* CarbonSwipeRefresh.m */,
+				8824942ADBF52AFF62DD361581611DE5 /* CarbonTabSwipeNavigation.h */,
+				019D1273C0A3E13C54D1C96191406BAD /* CarbonTabSwipeNavigation.m */,
+				04D8F8634F8AF99302E68966B070F63C /* CarbonTabSwipeScrollView.h */,
+				E4B50ECA4A54F2AACF1C687A565F0A65 /* CarbonTabSwipeScrollView.m */,
+				D2D809AD58CE8775E1693A4AB17EE0F4 /* CarbonTabSwipeSegmentedControl.h */,
+				3D8B5DFFE2B6CD1F7655E36022D25EB3 /* CarbonTabSwipeSegmentedControl.m */,
+				C19814D49271379B4E7E113ECE9DC4BE /* Support Files */,
+			);
+			name = CarbonKit;
+			path = CarbonKit;
+			sourceTree = "<group>";
+		};
+		CF1408CF629C7361332E53B88F7BD30C = {
+			isa = PBXGroup;
+			children = (
+				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				1628BF05B4CAFDCC3549A101F5A10A17 /* Frameworks */,
+				583CD1E498301F72C2C1BCD74E525548 /* Pods */,
+				B59C6D72701E48D0F71A4128E44DE36D /* Products */,
+				8C38368616B0EBC91CDE6FDCD9563EB2 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		E2983683FD097A93297E2F5D4E382B36 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */,
+				312B988EF117AE4DE76A268D970131FE /* UIKit.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		1FFB7F8692D82979C91B6A98E71623FA /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD4D5EB5E556D13582CEEEA2A95BB4C3 /* CarbonKit-umbrella.h in Headers */,
+				25B07A9A8A78CA347FE952767F39F980 /* CarbonKit.h in Headers */,
+				8CDD06F7743A3AF6213FC82BDEC766AB /* CarbonSwipeRefresh.h in Headers */,
+				7363851AAD9AE20CBC17CCB95785539B /* CarbonTabSwipeNavigation.h in Headers */,
+				03B8F701C390DCFA622B80BDBFDE1057 /* CarbonTabSwipeScrollView.h in Headers */,
+				A3D9C03640B1B005657BFB25D34DE3E8 /* CarbonTabSwipeSegmentedControl.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		32165ED42AE1A1CBBAABEE6AD2798806 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1C0396278716F0104A410E8F792C9788 /* Pods-SampleCarbonKit-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		1F5A527F31A8EE63E674F00967B8984B /* Pods-SampleCarbonKit */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D176C8AFE68C276E2CEA3C62C6167EB4 /* Build configuration list for PBXNativeTarget "Pods-SampleCarbonKit" */;
+			buildPhases = (
+				32165ED42AE1A1CBBAABEE6AD2798806 /* Headers */,
+				69DF1B8D05AFD29AF9673B71F7449FEE /* Sources */,
+				FB284EC05B3FFFED8A4DAEA443F36812 /* Frameworks */,
+				6A76F4866F43906A6BFBFCB7290258E4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0CBDA6244109E58EEAA9C5FABFB4259E /* PBXTargetDependency */,
+			);
+			name = "Pods-SampleCarbonKit";
+			productName = "Pods-SampleCarbonKit";
+			productReference = B22649994DD8BAE0B0C86181FD440086 /* Pods_SampleCarbonKit.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		AF9228424A074D42F13FABA26E972B57 /* CarbonKit */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C5D90460A139970FE643A264A65858E7 /* Build configuration list for PBXNativeTarget "CarbonKit" */;
+			buildPhases = (
+				1FFB7F8692D82979C91B6A98E71623FA /* Headers */,
+				9F52E615EF1639BF45A68CFB2F56D85C /* Sources */,
+				5EA1CACECF843B336B97AF81AF7829A2 /* Frameworks */,
+				A163BEA714D4CF02BA4D789EFC707413 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CarbonKit;
+			productName = CarbonKit;
+			productReference = 857D0B90490FD8083F79B97597566B28 /* CarbonKit.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1020;
+				LastUpgradeCheck = 1020;
+			};
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			productRefGroup = B59C6D72701E48D0F71A4128E44DE36D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AF9228424A074D42F13FABA26E972B57 /* CarbonKit */,
+				1F5A527F31A8EE63E674F00967B8984B /* Pods-SampleCarbonKit */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6A76F4866F43906A6BFBFCB7290258E4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A163BEA714D4CF02BA4D789EFC707413 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		69DF1B8D05AFD29AF9673B71F7449FEE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4BDD593CEA36CA5982C478E36AE81459 /* Pods-SampleCarbonKit-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F52E615EF1639BF45A68CFB2F56D85C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0C228AAFBE46C67BC2DC38F9D6920A47 /* CarbonKit-dummy.m in Sources */,
+				1C6B6AB5857B29F5A9161677EACF5C7B /* CarbonSwipeRefresh.m in Sources */,
+				BE96C87E14194D4D24F90D14B9041603 /* CarbonTabSwipeNavigation.m in Sources */,
+				A1D1FB161602F9E8EC5EEE3C260D7157 /* CarbonTabSwipeScrollView.m in Sources */,
+				CD5B7078A233D53215E9E98602900697 /* CarbonTabSwipeSegmentedControl.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0CBDA6244109E58EEAA9C5FABFB4259E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = CarbonKit;
+			target = AF9228424A074D42F13FABA26E972B57 /* CarbonKit */;
+			targetProxy = 1FF055278B44C7420548F367E9C40BC5 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		03CE6D868358495DFD9027F14B0FE6A7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EFBE5E17173FAE66F831DB5A69F1BF35 /* Pods-SampleCarbonKit.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-SampleCarbonKit/Pods-SampleCarbonKit-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-SampleCarbonKit/Pods-SampleCarbonKit.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		1422B121EAEAEA11307496903FA623C6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		144BC2320FDE793CB55E3F0E5F53FA6C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B13F8B682638504257F4BB9A4D21161B /* CarbonKit.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/CarbonKit/CarbonKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/CarbonKit/CarbonKit-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/CarbonKit/CarbonKit.modulemap";
+				PRODUCT_MODULE_NAME = CarbonKit;
+				PRODUCT_NAME = CarbonKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		6901D357B2D161B47A88D35B32C6484F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B13F8B682638504257F4BB9A4D21161B /* CarbonKit.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/CarbonKit/CarbonKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/CarbonKit/CarbonKit-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/CarbonKit/CarbonKit.modulemap";
+				PRODUCT_MODULE_NAME = CarbonKit;
+				PRODUCT_NAME = CarbonKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		AF0EE1FF92CC04DF58AE1FBE692E6D81 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E18C6B7399DC857F6758B2E977CAE64D /* Pods-SampleCarbonKit.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-SampleCarbonKit/Pods-SampleCarbonKit-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-SampleCarbonKit/Pods-SampleCarbonKit.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		ED7888FA6713EABBF66D26A8003AD1CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ED7888FA6713EABBF66D26A8003AD1CA /* Debug */,
+				1422B121EAEAEA11307496903FA623C6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C5D90460A139970FE643A264A65858E7 /* Build configuration list for PBXNativeTarget "CarbonKit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				144BC2320FDE793CB55E3F0E5F53FA6C /* Debug */,
+				6901D357B2D161B47A88D35B32C6484F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D176C8AFE68C276E2CEA3C62C6167EB4 /* Build configuration list for PBXNativeTarget "Pods-SampleCarbonKit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AF0EE1FF92CC04DF58AE1FBE692E6D81 /* Debug */,
+				03CE6D868358495DFD9027F14B0FE6A7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+}

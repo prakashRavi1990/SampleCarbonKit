@@ -1,5 +1,5 @@
 PODS:
-  - CarbonKit (2.3.0)
+  - CarbonKit (2.3.1)
 
 DEPENDENCIES:
   - CarbonKit
@@ -9,7 +9,7 @@ SPEC REPOS:
     - CarbonKit
 
 SPEC CHECKSUMS:
-  CarbonKit: fbbf0809ab18b33817a09da2591fc7ee9be7b17c
+  CarbonKit: b60e24dbdb47179990d5e074efa87ab819c8de98
 
 PODFILE CHECKSUM: 20111b3c375513e66ad88ca4fbcde9853e28c810
 
